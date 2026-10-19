@@ -1,4 +1,4 @@
-:HL["/capital-logistics-saas-staging/_next/static/chunks/1bdnzovzoof_k.css","style"]
+:HL["/capital-logistics-saas-staging/_next/static/chunks/129o12gm7enaj.css","style"]
 :HL["/capital-logistics-saas-staging/_next/static/media/Outfit_VariableFont_wght-s.p.3tyakrq6r4z19.ttf","font",{"crossOrigin":"","type":"font/ttf"}]
 1:[["children",{"s":"__PAGE__","h":160}]]
-0:{"b":"VV6DhBWma91xn0lMVGVoJ","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"Vlph8ep6II4xl5YiCnuHy","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
