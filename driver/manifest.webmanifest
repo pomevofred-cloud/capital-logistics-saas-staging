@@ -1,0 +1,13 @@
+{
+  "name": "Capital Logistics — Application chauffeur",
+  "short_name": "CL Driver",
+  "description": "Votre voyage assigné : démarrer le voyage, signaler un problème, confirmer l’arrivée.",
+  "lang": "fr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F4F4F6",
+  "theme_color": "#F4F4F6",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
