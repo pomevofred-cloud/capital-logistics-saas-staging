@@ -1,7 +1,7 @@
-:HL["/capital-logistics-saas-staging/_next/static/chunks/1853749j28s0n.css","style"]
+:HL["/capital-logistics-saas-staging/_next/static/chunks/0bzikvvqgjg3s.css","style"]
 :HL["/capital-logistics-saas-staging/_next/static/media/Outfit_VariableFont_wght-s.p.3tyakrq6r4z19.ttf","font",{"crossOrigin":"","type":"font/ttf"}]
 4:[["children",{"s":"__PAGE__","h":160}]]
 3:[["children",{"s":"view","h":96,"c":"$Q4"}]]
 2:[["children",{"s":"driver-communications","h":96,"c":"$Q3"}]]
 1:[["children",{"s":"(app)","h":96,"c":"$Q2"}]]
-0:{"b":"yi527b58OqC5bi9o9jDr3","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"fDm3w7Xn2RkuUivQ9vEz7","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
