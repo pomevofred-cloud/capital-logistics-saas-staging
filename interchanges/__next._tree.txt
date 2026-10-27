@@ -1,6 +1,6 @@
-:HL["/capital-logistics-saas-staging/_next/static/chunks/2jzf0mu3b48p2.css","style"]
+:HL["/capital-logistics-saas-staging/_next/static/chunks/44elcrfr6i-a3.css","style"]
 :HL["/capital-logistics-saas-staging/_next/static/media/Outfit_VariableFont_wght-s.p.3tyakrq6r4z19.ttf","font",{"crossOrigin":"","type":"font/ttf"}]
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":{"n":"module","t":"d","k":"interchanges","s":["clients","components","dashboard","deliveries","driver","driver-communications","drivers","fleet","history","login","movements","pod","set-password"]},"h":65632,"c":"$Q3"}]]
 1:[["children",{"s":"(app)","h":131168,"c":"$Q2"}]]
-0:{"b":"bkQK2C5ZJu70pS9Rv9uz0","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
+0:{"b":"vi08a75-AVL5MQSzSPmcR","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
