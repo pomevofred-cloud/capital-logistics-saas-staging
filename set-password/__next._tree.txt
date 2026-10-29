@@ -2,4 +2,4 @@
 :HL["/capital-logistics-saas-staging/_next/static/media/Outfit_VariableFont_wght-s.p.3tyakrq6r4z19.ttf","font",{"crossOrigin":"","type":"font/ttf"}]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"set-password","h":96,"c":"$Q2"}]]
-0:{"b":"v8fw1rMpMXU1xdlWmvmzl","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"sUaH7NEWY2f9AnHhtHaTA","t":{"t":{"s":"","h":80,"c":"$Q1"}}}

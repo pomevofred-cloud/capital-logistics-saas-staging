@@ -3,4 +3,4 @@
 :HL["/capital-logistics-saas-staging/_next/static/media/login-corridor-map.1gkdy12n4l75k.svg","image"]
 :HL["/capital-logistics-saas-staging/_next/static/media/login-corridor-map-tablet.3x0sa5jel4lg4.svg","image"]
 1:[["children",{"s":"__PAGE__","h":160}]]
-0:{"b":"v8fw1rMpMXU1xdlWmvmzl","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"sUaH7NEWY2f9AnHhtHaTA","t":{"t":{"s":"","h":80,"c":"$Q1"}}}

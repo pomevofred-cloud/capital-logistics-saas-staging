@@ -4,4 +4,4 @@
 :HL["/capital-logistics-saas-staging/_next/static/media/login-corridor-map-tablet.3x0sa5jel4lg4.svg","image"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"login","h":96,"c":"$Q2"}]]
-0:{"b":"v8fw1rMpMXU1xdlWmvmzl","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"sUaH7NEWY2f9AnHhtHaTA","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
